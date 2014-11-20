@@ -1,6 +1,6 @@
 
 
-//Calculator
+//Calculator Test
 //returns array of all buttons in this page
 
 function init () {
